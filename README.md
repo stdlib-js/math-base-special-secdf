@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import secdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-secdf@esm/index.mjs';
+import secdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-secdf@v0.1.0-esm/index.mjs';
 ```
 
 #### secdf( x )
@@ -87,7 +87,7 @@ v = secdf( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import secdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-secdf@esm/index.mjs';
+import secdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-secdf@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
